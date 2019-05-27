@@ -1,0 +1,39 @@
+userAgent,language,colorDepth,timezone,localStorage,platform,webglVendorAndRenderer,hash
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/64.0.3282.140 Safari/537.36 Edge/18.17763,pl-PL,24,Europe/Warsaw,true,Win32,Microsoft~ANGLE (NVIDIA GeForce GTX 1070 Direct3D11 vs_5_0 ps_5_0),a5b617b903e559c31facf7fcd5567c32
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/74.0.3729.169 Safari/537.36,pl-PL,24,Europe/Warsaw,true,Win32,Google Inc.~ANGLE (NVIDIA GeForce GTX 1070 Direct3D11 vs_5_0 ps_5_0),e73dc7e118b4211327aa07382453d21f
+Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/74.0.3729.169 Mobile Safari/537.36,pl-PL,24,Europe/Warsaw,true,Win32,Google Inc.~ANGLE (NVIDIA GeForce GTX 1070 Direct3D11 vs_5_0 ps_5_0),518dcfffd6190abcca8f58c0031926ec
+Mozilla/5.0 (MSIE 10.0; Windows NT 6.1; Trident/5.0),pl-PL,24,Europe/Warsaw,true,Windows,Google Inc.~ANGLE (NVIDIA GeForce GTX 1070 Direct3D11 vs_5_0 ps_5_0),0fb2b5924b7e400e05d315fb380ed896
+Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.0; WOW64; Trident/4.0; SLCC1),pl-PL,24,Europe/Warsaw,true,Windows,Google Inc.~ANGLE (NVIDIA GeForce GTX 1070 Direct3D11 vs_5_0 ps_5_0),de5e5a91099586b802aca13d6dbbc360
+Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 6.0; WOW64; Trident/4.0; SLCC1),pl-PL,24,Europe/Warsaw,true,Windows,Google Inc.~ANGLE (NVIDIA GeForce GTX 1070 Direct3D11 vs_5_0 ps_5_0),1e7032de5fc5118cc179c6658305795d
+Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 6.0; WOW64; Trident/4.0; SLCC1),pl-PL,24,Europe/Warsaw,true,Windows,Google Inc.~ANGLE (NVIDIA GeForce GTX 1070 Direct3D11 vs_5_0 ps_5_0),80d86dcaec38e4f435a8ca120e40fd3d
+Mozilla/5.0 (iPhone; CPU iPhone OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25,pl-PL,24,Europe/Warsaw,true,iPhone,Google Inc.~ANGLE (NVIDIA GeForce GTX 1070 Direct3D11 vs_5_0 ps_5_0),23b94b8ebf74e5aac6253a13d1359055
+Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25,pl-PL,24,Europe/Warsaw,true,iPad,Google Inc.~ANGLE (NVIDIA GeForce GTX 1070 Direct3D11 vs_5_0 ps_5_0),3dde9a1eb41fc6aa5eb0fda173103458
+Mozilla/5.0 (Linux; Android 4.4.2; Nexus 4 Build/KOT49H) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/34.0.1847.114 Mobile Safari/537.36,pl-PL,24,Europe/Warsaw,true,Android,Google Inc.~ANGLE (NVIDIA GeForce GTX 1070 Direct3D11 vs_5_0 ps_5_0),cfd1aed4b2da266bdfcb93ba4e5f44be
+Mozilla/5.0 (compatible; MSIE 10.0; Windows Phone 8.0; Trident/6.0; IEMobile/10.0; ARM; Touch; NOKIA; Lumia 920),pl-PL,24,Europe/Warsaw,true,Windows,Google Inc.~ANGLE (NVIDIA GeForce GTX 1070 Direct3D11 vs_5_0 ps_5_0),f31d98fbbd5aa8b603be35ac91b4e781
+Mozilla/5.0 (Windows NT 6.1; WOW64; rv:33.0) Gecko/20120101 Firefox/33.0,pl-PL,24,Europe/Warsaw,true,Windows,Google Inc.~ANGLE (NVIDIA GeForce GTX 1070 Direct3D11 vs_5_0 ps_5_0),4ad03bb99527156887ae1c50688f9cff
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_10; rv:33.0) Gecko/20100101 Firefox/33.0,pl-PL,24,Europe/Warsaw,true,MacIntel,Google Inc.~ANGLE (NVIDIA GeForce GTX 1070 Direct3D11 vs_5_0 ps_5_0),93e999524eb1f57bf4fdfa3313cfde1e
+Opera/9.80 (Windows NT 6.0) Presto/2.12.388 Version/12.14,pl-PL,24,Europe/Warsaw,true,Windows,Google Inc.~ANGLE (NVIDIA GeForce GTX 1070 Direct3D11 vs_5_0 ps_5_0),c0ed4c6e4bbd5ab40a761d648c077b78
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_9_3) AppleWebKit/537.75.14 (KHTML, like Gecko) Version/7.0.3 Safari/7046A194A,pl-PL,24,Europe/Warsaw,true,MacIntel,Google Inc.~ANGLE (NVIDIA GeForce GTX 1070 Direct3D11 vs_5_0 ps_5_0),ba3c9e501e3ec257ad5bbec456b92742
+Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/74.0.3729.169 Mobile Safari/537.36,pl-PL,24,Europe/Warsaw,true,Win32,Google Inc.~ANGLE (NVIDIA GeForce GTX 1070 Direct3D11 vs_5_0 ps_5_0),518dcfffd6190abcca8f58c0031926ec
+Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/74.0.3729.169 Mobile Safari/537.36,en-EN,24,Europe/Warsaw,true,Win32,Google Inc.~ANGLE (NVIDIA GeForce GTX 1070 Direct3D11 vs_5_0 ps_5_0),f8e8651802d024f7d3fa0f9021a46091
+Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/74.0.3729.169 Mobile Safari/537.36,no-NO,24,Europe/Warsaw,true,Win32,Google Inc.~ANGLE (NVIDIA GeForce GTX 1070 Direct3D11 vs_5_0 ps_5_0),ab1fe997b4e8dc08295fd1fa0c81cf7c
+Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/74.0.3729.169 Mobile Safari/537.36,de-DE,24,Europe/Warsaw,true,Win32,Google Inc.~ANGLE (NVIDIA GeForce GTX 1070 Direct3D11 vs_5_0 ps_5_0),5462299ff5530c5ef07f5fb9ab9f3aa2
+Mozilla/5.0 (MSIE 10.0; Windows NT 6.1; Trident/5.0),pl-PL,24,Europe/Warsaw,true,Windows,Google Inc.~ANGLE (NVIDIA GeForce GTX 1080 Direct3D11 vs_5_0 ps_5_0),a34f2d272f8e1a7522d881a49b55aaf0
+Mozilla/5.0 (MSIE 10.0; Windows NT 6.1; Trident/5.0),pl-PL,24,Europe/Warsaw,true,Windows,Google Inc.~ANGLE (NVIDIA GeForce GTX 1060 Direct3D11 vs_5_0 ps_5_0),bbda76ab09f164810cdbb30be37fe49e
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
