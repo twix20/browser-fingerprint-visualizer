@@ -1,6 +1,7 @@
 import React, { Component } from "react";
 import { Button, Spinner } from "reactstrap";
 import Fingerprint2 from "fingerprintjs2";
+import md5 from "md5";
 
 import "./App.css";
 import KeyValueTable from "./components/KeyValueTable";
@@ -19,6 +20,31 @@ class App extends Component {
     console.dir(components);
 
     console.log(JSON.stringify(components));
+  };
+
+  handleDumpFingerpint = () => {
+    const { components } = this.state;
+    const paramKeys = [
+      "userAgent",
+      "language",
+      "colorDepth",
+      "timezone",
+      "localStorage",
+      "platform",
+      "webglVendorAndRenderer"
+    ];
+
+    const values = components.filter(c => paramKeys.includes(c.key));
+
+    const concatedValues = values.reduce((acc, c) => acc + c.value, "");
+    const hash = md5(concatedValues);
+
+    const result = {
+      values,
+      hash
+    };
+
+    console.log(JSON.stringify(result));
   };
 
   handleAnalyseClick = async () => {
@@ -58,9 +84,14 @@ class App extends Component {
             </Button>
           </div>
           {!!components && (
-            <div className="App__Action">
-              <Button onClick={this.handleDumpClick}>Dump to console</Button>
-            </div>
+            <React.Fragment>
+              <div className="App__Action">
+                <Button onClick={this.handleDumpClick}>Dump to console</Button>
+              </div>
+              <div className="App__Action">
+                <Button onClick={this.handleDumpFingerpint}>Dump fingerpint</Button>
+              </div>
+            </React.Fragment>
           )}
         </div>
 
