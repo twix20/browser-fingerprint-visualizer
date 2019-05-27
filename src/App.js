@@ -36,7 +36,7 @@ class App extends Component {
 
     const values = components.filter(c => paramKeys.includes(c.key));
 
-    const concatedValues = values.reduce((acc, c) => acc + c.value, "");
+    const concatedValues = values.map(v => v.value).join(",");
     const hash = md5(concatedValues);
 
     const result = {
@@ -44,6 +44,7 @@ class App extends Component {
       hash
     };
 
+    console.log(concatedValues);
     console.log(JSON.stringify(result));
   };
 
