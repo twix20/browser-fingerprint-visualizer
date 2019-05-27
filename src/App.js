@@ -44,7 +44,7 @@ class App extends Component {
       hash
     };
 
-    console.log(concatedValues);
+    console.log(concatedValues + "," + hash);
     console.log(JSON.stringify(result));
   };
 
